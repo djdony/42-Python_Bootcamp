@@ -18,14 +18,3 @@ except ValueError:
     print("ERROR")
 except IndexError:
     pass
-
-
-
-
-
-
-# > python whois.py
-
-
-# > python whois.py 12 3
-# ERROR
